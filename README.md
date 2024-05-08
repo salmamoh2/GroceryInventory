@@ -1,0 +1,1 @@
+This project was part of my Database and Implemtation class. This project consist of helping users when shopping online what invenorty is avalive to purchase the the grocery store. I an item was in stock the customer will be able to add, if not then it will explain item is unavalible.  
